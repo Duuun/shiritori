@@ -14,9 +14,9 @@
 ```
 
 ## チュートリアル
-1. `git clone`
+1. `git clone https://github.com/Duuun/shiritori.git`
 2. `git checkout -b feature/hohogeo (update_shiritoriとかadd_wordとか)`
-3. 更新する。順番的に正しい次の言葉を下にかく
+3. `README.md`を更新する。順番的に正しい次の言葉を下にかく
 4. `git add .` `git commit -m "適当なコミットメッセージ"` `git push origin feature/update_hoghege`
 5. GitHub上で`pull request`をだす
 6. okだったらマージされる
